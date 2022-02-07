@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Après la pluie vient le beau temps
 Use the left arrow to go back!
